@@ -1,8 +1,10 @@
+<p align="center"><img src='octocat.png' alt='octocat' width="250"></p>
+
 # 💫 About Me:
 
 🔭 I’m currently working on becoming a fullstack developer<br>👯 I’m looking to collaborate on backend development<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Python and Django
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himangshu.de) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/himangshu_de_03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/himangshu_de)
 
