@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on becoming a fullstack developer<br>👯 I’m looking to collaborate on backend development<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Python and Django
+🔭 I’m currently working on [**Chess Clock**](https://github.com/HimangshuDe/Chess-Clock) Project. Click [here](https://himangshude.github.io/Chess-Clock) to pay a visit!<br>👯 I’m looking to collaborate on backend development<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Python and Django
 
 # 🌐 Socials:
 
