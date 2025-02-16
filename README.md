@@ -6,7 +6,7 @@
 
 # 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himangshu.de) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/himangshu_de_03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/himangshu_de)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamhimangshude) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/himangshu_de_03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamhimangshude)
 
 # 💻 Tech Stack:
 
