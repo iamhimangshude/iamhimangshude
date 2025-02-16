@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on [**Chess Clock**](https://github.com/HimangshuDe/Chess-Clock) Project. Click [here](https://himangshude.github.io/Chess-Clock) to pay a visit!<br>👯 I’m looking to collaborate on backend development<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Python and Django
+🔭 I’m currently working on [**Chess Clock**](https://github.com/iamhimangshude/Chess-Clock) Project. Click [here](https://iamhimangshude.github.io/Chess-Clock) to pay a visit!<br>👯 I’m looking to collaborate on backend development<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Python and Django
 
 # 🌐 Socials:
 
@@ -14,15 +14,15 @@
 
 # 📊 GitHub Stats:
 
-[![](https://visitcount.itsvg.in/api?id=HimangshuDe&icon=0&color=11)](https://visitcount.itsvg.in)<br/>
-![](https://github-readme-stats.vercel.app/api?username=HimangshuDe&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HimangshuDe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimangshuDe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=iamhimangshude&icon=0&color=11)](https://visitcount.itsvg.in)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iamhimangshude&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamhimangshude&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhimangshude&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=HimangshuDe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iamhimangshude&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=HimangshuDe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=iamhimangshude&limit=5&theme=dark&combine_all_yearly_contributions=true)
